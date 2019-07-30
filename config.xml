@@ -147,7 +147,7 @@
     <plugin name="cordova-pdf-generator" spec="1.0.0" />
 
     <plugin name="cordova-plugin-file" spec="4.0.0" />
-     <plugin name="cordova-plugin-filepath" spec="1.5.1" />
+     <plugin name="cordova-plugin-filepath-generic" spec="1.0.3" />
 
     <plugin name="cordova-plugin-hidden-statusbar" spec="1.0.0" />
 
