@@ -22,7 +22,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="prerendered-icon" value="true" />
     <preference name="android-minSdkVersion" value="7" />
-    <preference name="android-targetSdkVersion" value="26" />
+    <preference name="android-targetSdkVersion" value="22" />
     <preference name="android-installLocation" value="auto" />
     <preference name="loadUrlTimeoutValue" value="70000000" />
     <preference name="AllowInlineMediaPlayback" value="true" />
